@@ -1,0 +1,3 @@
+/home/nekito/Documentos/ALGORITMOS/EXAMEN_EG14001/Carretilla/build/CMakeFiles/edit_cache.dir
+/home/nekito/Documentos/ALGORITMOS/EXAMEN_EG14001/Carretilla/build/CMakeFiles/rebuild_cache.dir
+/home/nekito/Documentos/ALGORITMOS/EXAMEN_EG14001/Carretilla/build/CMakeFiles/hello.dir

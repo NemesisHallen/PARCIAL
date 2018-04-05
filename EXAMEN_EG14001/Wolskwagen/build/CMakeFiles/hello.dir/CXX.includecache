@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nekito/Documentos/ALGORITMOS/EXAMEN_EG14001/Wolskwagen/main.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+
